@@ -1,0 +1,7 @@
+[book]
+authors = ["Adam McKellar", "Kanushka Gupta", "Timo Ege"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Installation-Instruction Schema"
+description = "Documentation and Guide for Installation-Instruction Schema"
