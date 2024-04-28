@@ -5,3 +5,6 @@ multilingual = false
 src = "src"
 title = "Installation-Instruction Schema"
 description = "Documentation and Guide for Installation-Instruction Schema"
+
+[output.html]
+git-repository-url = "https://github.com/instructions-d-installation/schema"
