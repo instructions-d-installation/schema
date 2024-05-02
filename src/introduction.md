@@ -1,7 +1,6 @@
 # Introduction
 
-Here we will give you an intruduction to Installation-Instruction Schema.  
-There will be a guide and multiple sections to explain the schema in detail.
+Here we will give you an intruduction to Installation-Instruction project and how to get started.
 
 I don't like <https://readthedocs.com>.
 

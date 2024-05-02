@@ -3,8 +3,8 @@ authors = ["Adam McKellar", "Kanushka Gupta", "Timo Ege"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Installation-Instruction Schema"
-description = "Documentation and Guide for Installation-Instruction Schema"
+title = "Installation-Instruction"
+description = "Documentation and Guide for Installation-Instruction Project."
 
 [output.html]
 git-repository-url = "https://github.com/instructions-d-installation/schema"
